@@ -1,6 +1,6 @@
 # Bancada Inteligente
 
-![esboco_v1](/home/lucas/ssd1/Users/Lucas/Desktop/ifsc/bancadaInteligente/imagens_conceitos/esboco_v1.png)
+![esboco_v1](https://raw.githubusercontent.com/LPAE/Bancada-Esteira/master/imagens_conceitos/esboco_v1.png)
 
 A Banca Inteligente visa a facilidade e praticidade na didática e prototipação de diferentes sistemas de caráter industrial.
 
@@ -30,5 +30,5 @@ O aparato deve ter gavetas para guarda equipamentos e uma bancada que comporte u
 
 Bacada deve ter rodas.
 
-![bancada_mapa_conceitual_1](/home/lucas/ssd1/Users/Lucas/Desktop/ifsc/bancadaInteligente/imagens_conceitos/bancada_mapa_conceitual_1.jpg)
+![bancada_mapa_conceitual_1](https://raw.githubusercontent.com/LPAE/Bancada-Esteira/master/imagens_conceitos/bancada_mapa_conceitual_1.jpg)
 
